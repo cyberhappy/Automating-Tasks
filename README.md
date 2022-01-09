@@ -6,8 +6,7 @@ This script are designed to be run on the command line on UNIX based systems. Th
 How to use it 
 
 chmod +x Automation.sh <br />
-sudo Automation.sh <br />
-./Automation.sh <br />
+sudo ./Automation.sh <br />
 
 when the script runs choose the option you want like 1 2 3 4 5
 
